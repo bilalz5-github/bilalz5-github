@@ -1,8 +1,9 @@
 # 👋 Hi, I’m Bilal Azam
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E2A78,100:0F6DB5&height=200&section=header&text=BILAL%20AZAM&fontSize=45&fontColor=FFFFFF" alt="banner"/>
+  <img src="https://tryhackme.com/badge/3281564" alt="TryHackMe Badge" width="400"/>
 </p>
+
 
 <p align="center">
   🔐 Passionate about Cybersecurity | Skilled in Networking, Cloud Security & Security Operations
