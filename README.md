@@ -87,11 +87,7 @@
 ---
 
 ## 🔄 Dynamic TryHackMe Stats
-Your badge updates live:
-
-![TryHackMe badge](https://tryhackme-badges.s3.amazonaws.com/bilalz05.png)
-
-> Want GitHub Action to **auto-update streak, rank & rooms daily**? Ask me for the script & setup! 🚀
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3281564" style='border:none;width:100%;height:245px;'></iframe>
 
 ---
 
