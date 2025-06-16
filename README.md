@@ -10,11 +10,12 @@
 
 ---
 
-## 🧪 TryHackMe Live Stats
+## 🧪 TryHackMe Stats (Live)
 <p align="center">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3281564" style='border:none;width:100%;height:245px;'></iframe>
-  <br/>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/bilalz05.png" alt="Your Image Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/bilalz05.png" alt="TryHackMe Badge" />
+</p>
+<p align="center">
+  <strong>Streak:</strong> 337 days · <strong>Rooms:</strong> 72 · <strong>Rank:</strong> 0x9 · <strong>Points:</strong> 57,499
 </p>
 
 ---
