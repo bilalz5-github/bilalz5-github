@@ -12,7 +12,7 @@
 
 ## 🧪 TryHackMe Stats (Live)
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/bilalz05.png" alt="TryHackMe Badge" />
+  <img src="./dc04ac51-207e-46a3-b007-37c28dd8b7cb.png" alt="TryHackMe Badge" />
 </p>
 <p align="center">
   <strong>Streak:</strong> 337 days · <strong>Rooms:</strong> 72 · <strong>Rank:</strong> 0x9 · <strong>Points:</strong> 57,499
@@ -21,28 +21,28 @@
 ---
 
 ## 🚀 About Me
-- 🧑‍🎓 IT Graduate from Vaasa University of Applied Sciences
-- 🧠 Strong interest in Cybersecurity, Networking & Threat Detection
-- 📚 Studied: TryHackMe SOC Level 1, Cisco Ethical Hacking, CCNA 1–3, Google Cloud Security
-- 🛠️ Experience with SIEMs, IDS/IPS, Packet Analysis, Cloud IAM, and Digital Forensics
-- 🧪 Active learner with 300+ day streak on TryHackMe 🚀
+- 🧑‍🎓 IT Graduate from Vaasa University of Applied Sciences  
+- 🧠 Strong interest in Cybersecurity, Networking & Threat Detection  
+- 📚 Studied: TryHackMe SOC Level 1, Cisco Ethical Hacking, CCNA 1–3, Google Cloud Security  
+- 🛠️ Experience with SIEMs, IDS/IPS, Packet Analysis, Cloud IAM, and Digital Forensics  
+- 🧪 Active learner with 300+ day streak on TryHackMe 🚀  
 
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bilalz5/) 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilalazam1678@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bilalz5/)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilalazam1678@gmail.com)  
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/bilalz05)
 
 ---
 
 ## 🧠 Key SOC Level 1 Skills
-- 🧩 Real-time alert triage and log analysis
-- 🔍 Packet capture analysis and endpoint triage (Wireshark, Sysmon)
-- 🧪 IDS/IPS signature creation and tuning (Snort, Suricata)
-- 📈 Threat hunting using IOCs, YARA, MISP
-- 🕵️ Evidence gathering and malware analysis with forensic tools
-- 🧾 Documentation and escalation in SOC workflows
+- 🧩 Real-time alert triage and log analysis  
+- 🔍 Packet capture analysis and endpoint triage (Wireshark, Sysmon)  
+- 🧪 IDS/IPS signature creation and tuning (Snort, Suricata)  
+- 📈 Threat hunting using IOCs, YARA, MISP  
+- 🕵️ Evidence gathering and malware analysis with forensic tools  
+- 🧾 Documentation and escalation in SOC workflows  
 
 ---
 
@@ -88,12 +88,13 @@
 ---
 
 ## 📜 Certifications
-- 🏆 Google Cloud Cybersecurity Certificate
-- 🏆 Cisco Ethical Hacker
-- 🏆 Cisco CyberOps Associate
-- 🏆 CCNA 1, 2, 3
+- 🏆 Google Cloud Cybersecurity Certificate  
+- 🏆 Cisco Ethical Hacker  
+- 🏆 Cisco CyberOps Associate  
+- 🏆 CCNA 1, 2, 3  
 - 📚 CompTIA Security+ (Ongoing)
 
 ---
 
-_"Logs never lie — they just need the right eyes."_
+> _"Logs never lie — they just need the right eyes."_
+
