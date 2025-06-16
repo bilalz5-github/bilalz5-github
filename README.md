@@ -10,9 +10,9 @@
 
 ---
 
-## 🧪 TryHackMe Stats (Live)
+## 🧪 TryHackMe Stats
 <p align="center">
-  <img src="./dc04ac51-207e-46a3-b007-37c28dd8b7cb.png" alt="TryHackMe Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/bilalz05.png" alt="TryHackMe Badge" width="400"/>
 </p>
 <p align="center">
   <strong>Streak:</strong> 337 days · <strong>Rooms:</strong> 72 · <strong>Rank:</strong> 0x9 · <strong>Points:</strong> 57,499
