@@ -1,7 +1,8 @@
-<!-- ====== DYNAMIC BANNER (FINAL) ====== -->
+<!-- ====== DYNAMIC BANNER (UPDATED) ====== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%2C+I%E2%80%99m+Bilal+Azam;IT+Graduate+%40+VAMK;Security+Operations+%7C+Networking+%7C+Cloud+Security;Focused+on+real-world+threats.+Skilled+in+turning+logs+into+decisions.&center=true&width=800&height=60&duration=3000&pause=1000" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%2C+I%E2%80%99m+Bilal+Azam;IT+Graduate+%40+VAMK;Security+Operations+%7C+Network+Security+%7C+Cloud+Security;Focused+on+real-world+threats.+Skilled+in+turning+logs+into+decisions.&center=true&width=800&height=60&duration=3000&pause=1000" alt="Typing SVG">
 </p>
+
 
 
 
