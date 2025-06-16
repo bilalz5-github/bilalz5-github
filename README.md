@@ -10,69 +10,88 @@
 | 🔢 | **Metric** | **Value** |
 |----|------------|-----------|
 | 🌐 GitHub Projects | 10+ security & dev repos |
-| 🏅 TryHackMe Rooms | 25+ completed (rank badge below) |
-| 🎓 Certifications | Google Cloud Cybersecurity • Cisco CyberOps • CCNA 1‑3 |
-| 🛠 Tech Stack | ELK • Suricata • Python • Cisco PT • Android |
+| 🏅 TryHackMe Rooms | 25+ completed <br> ![TryHackMe badge](https://tryhackme-badges.s3.amazonaws.com/bilalz05.png) |
+| 🎓 Certifications | Google Cloud Cybersecurity • Cisco Ethical Hacker • CCNA 1–3 |
+| 🛠 Tech Stack | ELK • Suricata • Wireshark • Cisco PT • Python |
 | 💬 Languages | English (Fluent) · Finnish (Basic) |
 
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/bilalz05.png" alt="TryHackMe badge" />
-</p>
+---
+
+### 🛡️ Key SOC Level 1 Responsibilities
+- 🕵️‍♂️ 24×7 alert monitoring, log triage, and incident detection
+- ⚠️ Investigation of alerts from SIEM/EDR and threat containment
+- 📈 Analysis of PCAPs and system logs for anomalies/IoCs
+- 🎯 IDS/IPS rule writing (Snort, Suricata) and tuning
+- 🔍 Threat intelligence correlation (YARA, MISP, IOCs)
+- 💻 Basic endpoint forensics (Sysmon, memory dumps)
+- 📝 Incident documentation & Tier-2 escalation
 
 ---
 
-### 💡 About Me
-- 👋 I’m **Bilal**, an IT graduate specialised in Blue‑Team operations and detection engineering.
-- 🛡 Built a **production‑like SIEM** with ELK & Suricata, mapping detections to MITRE ATT&CK.
-- 🔎 Passionate about turning packet captures & logs into actionable insights.
-- ⚙️ Automate everything in **Python** – from port scanners to reverse shells.
-- 📚 Lifelong learner: currently diving deep into **CompTIA Security+** & OT threat detection.
+### 🛠️ Tech Toolbox & Tools Mastered
+#### **SIEM & Logging**
+- ![Splunk](https://img.shields.io/badge/Splunk-log%20analysis-brightgreen)
+- ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-log%20analytics-blue)
+- ![Sysmon](https://img.shields.io/badge/Sysmon-Windows%20logs-critical)
+- ![Cloud Logging](https://img.shields.io/badge/Cloud%20Logging-GCP-blue)
+
+#### **IDS / IPS & Network Monitoring**
+- ![Snort](https://img.shields.io/badge/Snort-IDS-red)
+- ![Suricata](https://img.shields.io/badge/Suricata-Network%20Detection-orange)
+- ![Wireshark](https://img.shields.io/badge/Wireshark-Packet%20Sniffing-blue)
+- ![Zeek](https://img.shields.io/badge/Zeek-Traffic%20Analysis-lightgrey)
+- ![Brim](https://img.shields.io/badge/Brim-PCAP%20Analysis-darkgreen)
+- ![TShark](https://img.shields.io/badge/TShark-Terminal%20PCAP%20Viewer-informational)
+- ![NetworkMiner](https://img.shields.io/badge/NetworkMiner-Network%20Forensics-yellow)
+
+#### **Endpoint & Memory Forensics**
+- ![Sysinternals](https://img.shields.io/badge/Sysinternals-System%20Monitoring-blue)
+- ![Redline](https://img.shields.io/badge/Redline-Memory%20Forensics-orange)
+- ![Volatility](https://img.shields.io/badge/Volatility-RAM%20Analysis-lightblue)
+- ![KAPE](https://img.shields.io/badge/KAPE-Evidence%20Collection-brightgreen)
+- ![Velociraptor](https://img.shields.io/badge/Velociraptor-Endpoint%20IR-red)
+- ![Autopsy](https://img.shields.io/badge/Autopsy-Disk%20Forensics-lightgrey)
+
+#### **Threat Intel / Hunting**
+- ![YARA](https://img.shields.io/badge/YARA-Malware%20Signatures-red)
+- ![MISP](https://img.shields.io/badge/MISP-Threat%20Sharing-darkred)
+- ![VirusTotal](https://img.shields.io/badge/VirusTotal-File%20Scanning-blue)
+- ![OpenCTI](https://img.shields.io/badge/OpenCTI-Threat%20Data-informational)
+
+#### **Networking / Cisco / CCNA**
+- ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20PT-Network%20Sim-yellow)
+- ![VLAN](https://img.shields.io/badge/VLAN-Network%20Segmentation-blueviolet)
+- ![OSPF](https://img.shields.io/badge/OSPF-Routing-green)
+- ![NAT](https://img.shields.io/badge/NAT-IP%20Translation-informational)
+- ![ACL](https://img.shields.io/badge/ACL-Packet%20Filtering-blue)
+
+#### **Cloud Security (GCP)**
+- ![Google Cloud](https://img.shields.io/badge/GCP-Cloud%20Security-blue)
+- ![Cloud IAM](https://img.shields.io/badge/IAM-Access%20Mgmt-lightblue)
+- ![VPC Firewall](https://img.shields.io/badge/VPC%20Firewall-Traffic%20Control-red)
+- ![Audit Logs](https://img.shields.io/badge/Audit%20Logs-Activity%20Logs-yellow)
+- ![Security Command Center](https://img.shields.io/badge/SCC-Threat%20Center-blue)
+
+#### **Offensive Security / Labs**
+- ![Kali Linux](https://img.shields.io/badge/Kali-Pentest%20OS-black)
+- ![Metasploit](https://img.shields.io/badge/Metasploit-Exploitation-blue)
+- ![OWASP ZAP](https://img.shields.io/badge/ZAP-Web%20Scanner-orange)
+- ![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-Password%20Cracker-informational)
+- ![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanner-green)
+- ![Aircrack-ng](https://img.shields.io/badge/Aircrack-ng-WiFi%20Security-lightgrey)
+
+#### **Scripting & Languages**
+- ![Python](https://img.shields.io/badge/Python-Automation-blue)
+- ![Bash](https://img.shields.io/badge/Bash-Scripting-black)
+- ![Java](https://img.shields.io/badge/Java-Android-yellow)
 
 ---
 
-### 🛠 Tech Toolbox
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,java,linux,windows,kali,git,docker,elastic,logstash,kibana,wireshark,azure,googlecloud" />
-</p>
-
----
-
-### 🚀 Highlight Projects
-| Category | Project | Stack |
-|----------|---------|-------|
-| **Exploitation** | [Erlang‑OTP‑SSH‑CVE‑2025‑32433](https://github.com/bilalz5-github/Erlang-OTP-SSH-CVE-2025-32433) – pre‑auth RCE PoC | Python, Erlang |
-| | [Reverse‑Shell‑Client](https://github.com/bilalz5-github/Reverse-Shell-Client) – modular reverse shell | Python |
-| **Defence / Monitoring** | [SIEM‑Setup‑Sysmon‑ELK](https://github.com/bilalz5-github/SIEM-Setup-Sysmon-ELK) – Windows logs → ELK | Elastic, Winlogbeat |
-| **Network Labs** | [Network‑Security‑Exploration](https://github.com/bilalz5-github/Network-Security-Exploration) – segmentation & hardening | Cisco PT |
-| | [OSPFv2 Lab](https://github.com/bilalz5-github/Point-to-Point-Single-Area-OSPFv2-Configuration) – routing practice | Cisco PT |
-| **Python Utilities** | [SimplePortScannerPy](https://github.com/bilalz5-github/SimplePortScannerPy) – beginner scanner | Python |
-| **Mobile** | [Meeting‑Calendar‑App](https://github.com/bilalz5-github/Meeting-Calendar-App) – meeting scheduler | Java, Android |
-
----
-
-### 🎖 Certifications & Training
-- **Google Cloud Cybersecurity Professional Certificate**
-- **Cisco CyberOps Associate**
-- **CCNA (1‑3)**
-- **TryHackMe Blue Team · SOC Level 1**
-- **CompTIA Security+ (in progress)**
-
----
-
-### 📈 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bilalz5-github&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=bilalz5-github&theme=tokyonight" />
-</p>
-
----
-
-### 📬 Reach Out
+### 📬 Connect With Me
 <a href="mailto:bilalazam1678@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/bilalz5/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://tryhackme.com/p/bilalz05"><img src="https://img.shields.io/badge/TryHackMe-%23CC0000.svg?&style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
 
 ---
 
-*“Logs never lie – they just need the right eyes.”*
+_“Logs never lie – they just need the right eyes.”_
