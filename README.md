@@ -1,9 +1,8 @@
-# 👋 Hi, I’m Bilal Azam
+
 
 <p align="center">
   <img src="https://tryhackme.com/badge/3281564" alt="TryHackMe Badge" width="400"/>
 </p>
-
 
 <p align="center">
   🔐 Passionate about Cybersecurity | Skilled in Networking, Cloud Security & Security Operations
@@ -12,9 +11,6 @@
 ---
 
 ## 🧪 TryHackMe Stats
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/bilalz05.png" alt="TryHackMe Badge" width="400"/>
-</p>
 <p align="center">
   <strong>Streak:</strong> 337 days · <strong>Rooms:</strong> 72 · <strong>Rank:</strong> 0x9 · <strong>Points:</strong> 57,499
 </p>
@@ -98,4 +94,3 @@
 ---
 
 > _"Logs never lie — they just need the right eyes."_
-
