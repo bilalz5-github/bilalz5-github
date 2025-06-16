@@ -10,6 +10,15 @@
 
 ---
 
+## 🧪 TryHackMe Live Stats
+<p align="center">
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3281564" style='border:none;width:100%;height:245px;'></iframe>
+  <br/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/bilalz05.png" alt="Your Image Badge" />
+</p>
+
+---
+
 ## 🚀 About Me
 - 🧑‍🎓 IT Graduate from Vaasa University of Applied Sciences
 - 🧠 Strong interest in Cybersecurity, Networking & Threat Detection
@@ -83,11 +92,6 @@
 - 🏆 Cisco CyberOps Associate
 - 🏆 CCNA 1, 2, 3
 - 📚 CompTIA Security+ (Ongoing)
-
----
-
-## 🔄 Dynamic TryHackMe Stats
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3281564" style='border:none;width:100%;height:245px;'></iframe>
 
 ---
 
