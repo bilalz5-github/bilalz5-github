@@ -36,7 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="Android" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" title="ELK Stack" height="40"/>
   <img src="https://raw.githubusercontent.com/Wazuh/wazuh/master/resources/images/wazuh-icon-color.png" title="Wazuh" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_icon.svg" title="Wireshark" height="40"/>
+  <img src="https://raw.githubusercontent.com/bilalz5-github/bilalz5-github/main/wireshark.jpeg" title="Wireshark" height="40"/>
+
   <img src="https://img.icons8.com/emoji/48/fire-emoji.png" title="Firewall / Security" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Metasploit_Logo.svg" title="Metasploit" height="40"/>
 </p>
