@@ -36,11 +36,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="Android" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" title="ELK Stack" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/wazuh.svg" title="Wazuh" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/wireshark.svg" title="Wireshark" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/fortinet.svg" title="Firewall / Security (e.g., Fortinet)" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/metasploit.svg" title="Metasploit" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/splunk.svg" title="Splunk" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/cisco.svg" title="Cisco Packet Tracer" height="40"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nmap.svg" title="Nmap" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/yara.svg" title="YARA" height="40"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/suricata.svg" title="Suricata" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/snort.svg" title="Snort" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Microsoft_Sysmon_Logo.svg/1200px-Microsoft_Sysmon_Logo.svg.png" title="Sysmon" height="40"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/zeek.svg" title="Zeek" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/redhat.svg" title="Redline (generic red icon, no specific Redline icon)" height="40"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/metasploit.svg" title="Metasploit" height="40"/>
 </p>
-
 ---
 
 ## 🎯 Featured Projects
