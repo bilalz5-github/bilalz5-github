@@ -35,21 +35,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="Android" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" title="ELK Stack" height="40"/>
-
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/wazuh.svg" title="Wazuh" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/splunk.svg" title="Splunk" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Microsoft_Sysmon_Logo.svg/1200px-Microsoft_Sysmon_Logo.svg.png" title="Sysmon" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/zeek.svg" title="Zeek" height="40"/>
-
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/nmap.svg" title="Nmap" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/suricata.svg" title="Suricata" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/snort.svg" title="Snort" height="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/cisco.svg" title="Cisco Packet Tracer" height="40"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mandiant.svg" title="Redline (Mandiant)" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/cisco.svg" title="Cisco Packet Tracer" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mandiant.svg" title="Redline (Mandiant)" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/metasploit.svg" title="Metasploit" height="40"/>
-  <span title="YARA Rules" style="font-size: 2em; vertical-align: middle;">YARA</span> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/fortinet.svg" title="Firewall / Network Security" height="40"/>
-
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/fortinet.svg" title="Fortinet Firewall" height="40"/>
+  <span style="display: inline-flex; align-items: center; height: 40px; font-weight: bold; margin: 0 5px;" title="YARA">YARA</span>
 </p>
-
 ## 🎯 Featured Projects
 | Category | Project | Stack |
 | :--- | :--- | :--- |
