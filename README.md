@@ -44,14 +44,15 @@
 </p>
 
 ### 🔐 Security & Analysis
-<p>
-  <img src="https://img.icons8.com/color/48/splunk.png" height="40" title="Splunk"/>
-  <img src="https://www.elastic.co/static/images/elastic-logo-200.png" height="40" title="ELK Stack"/>
-  <img src="https://img.icons8.com/color/48/wazuh.png" height="40" title="Wazuh"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original.svg" height="40" title="Splunk"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="40" title="ELK Stack"/>
+  <img src="https://raw.githubusercontent.com/Wazuh/wazuh/master/resources/images/wazuh-icon-color.png" height="40" title="Wazuh"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_icon.svg" height="40" title="Wireshark"/>
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-firewall-cyber-security-flat-flat-juicy-fish.png" height="40" title="Firewall"/>
+  <img src="https://img.icons8.com/fluency/48/firewall.png" height="40" title="Firewall"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Metasploit_Logo.svg" height="40" title="Metasploit"/>
 </p>
+
 
 ---
 
