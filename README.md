@@ -27,7 +27,7 @@
 
 ## 🛠️ Tech Stack & Tools
 
-## 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" height="40"/>
@@ -35,12 +35,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="Android" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" title="ELK Stack" height="40"/>
-  <img src="https://raw.githubusercontent.com/Wazuh/wazuh/master/resources/images/wazuh-icon-color.png" title="Wazuh" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_icon.svg" title="Wireshark" height="40"/>
-  <img src="https://img.icons8.com/emoji/48/fire-emoji.png" title="Firewall / Security" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Metasploit_Logo.svg" title="Metasploit" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" title="ELK Stack" height="40"/>
 </p>
+
 
 
 ---
