@@ -27,12 +27,6 @@
   <strong>Streak:</strong> 337 days&nbsp;·&nbsp;<strong>Rooms:</strong> 72&nbsp;·&nbsp;<strong>Rank:</strong> 0x9&nbsp;·&nbsp;<strong>Points:</strong> 57,499
 </p>
 
----
-
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bilalz5/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilalazam1678@gmail.com)  
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/bilalz05)
 
 ---
 
@@ -95,6 +89,14 @@
 - 📚 CompTIA Security+ (*ongoing*)  
 
 ---
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bilalz5/)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilalazam1678@gmail.com)  
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/bilalz05)
+
+---
+
 
 > _“Logs never lie — they just need the right eyes.”_
 
