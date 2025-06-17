@@ -1,22 +1,8 @@
-<!-- ====== DYNAMIC BANNER (UPDATED) ====== -->
+<!-- ====== DYNAMIC BANNER ====== -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%2C+I%E2%80%99m+Bilal+Azam;IT+Graduate+%40+VAMK;Security+Operations+%7C+Network+Security+%7C+Cloud+Security;Focused+on+real-world+threats.+Skilled+in+turning+logs+into+decisions.&center=true&width=800&height=60&duration=3000&pause=1000" alt="Typing SVG">
 </p>
 
-
-
-
-
-
-
-<!-- ---
-
-## 🚀 About Me
-- 🧑‍🎓 IT Graduate from **Vaasa University of Applied Sciences**  
-- 🧠 Strong interest in **Cybersecurity, Networking & Threat Detection**  
-- 📚 Studied: **TryHackMe SOC Level 1, Cisco Ethical Hacking, CCNA 1–3, Google Cloud Security**  
-- 🛠️ Experience with **SIEMs, IDS/IPS, Packet Analysis, Cloud IAM, Digital Forensics**  
-- 🧪 *Active learner* with a **300 + day streak** on TryHackMe 🚀  -->
 ---
 
 ## 🧪 TryHackMe Stats (Live)
@@ -24,9 +10,8 @@
   <img src="https://tryhackme.com/badge/3281564" alt="TryHackMe Badge" width="400"/>
 </p>
 <p align="center">
-  <strong>Streak:</strong> 337 days&nbsp;·&nbsp;<strong>Rooms:</strong> 72&nbsp;·&nbsp;<strong>Rank:</strong> 0x9&nbsp;·&nbsp;<strong>Points:</strong> 57,499
+  <strong>Streak:</strong> 337 days · <strong>Rooms:</strong> 72 · <strong>Rank:</strong> 0x9 · <strong>Points:</strong> 57,499
 </p>
-
 
 ---
 
@@ -90,32 +75,6 @@
 
 ---
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bilalz5/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilalazam1678@gmail.com)  
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/bilalz05)
+## 📊 GitHub Analytics (Dynamic)
 
----
-
-
-> _“Logs never lie — they just need the right eyes.”_
-
----
-
-<!-- ====== QUICK MIND-MAP (Mermaid) ====== -->
-```mermaid
-mindmap
-  root((Bilal Azam))
-    Cybersecurity
-      SOC
-      SIEM
-      Threat Hunting
-    Networking
-      CCNA
-      Packet Analysis
-    Cloud Security
-      Google Cloud
-    Programming
-      Python
-      Bash
-      Java
+<p align="
