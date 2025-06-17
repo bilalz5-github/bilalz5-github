@@ -35,13 +35,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="Android" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" title="ELK Stack" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Wazuh_logo.png" title="Wazuh" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Wireshark_icon_new.png" title="Wireshark" height="40"/>
-  <img src="https://icon.horse/icon/fortinet.com" title="Firewall / Security" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Metasploit_Logo.svg" title="Metasploit" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/wazuh.svg" title="Wazuh" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/wireshark.svg" title="Wireshark" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/fortinet.svg" title="Firewall / Security (e.g., Fortinet)" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/metasploit.svg" title="Metasploit" height="40"/>
 </p>
-
-
 
 ---
 
