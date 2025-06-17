@@ -9,15 +9,14 @@
 
 
 
----
+<!-- ---
 
 ## 🚀 About Me
 - 🧑‍🎓 IT Graduate from **Vaasa University of Applied Sciences**  
 - 🧠 Strong interest in **Cybersecurity, Networking & Threat Detection**  
 - 📚 Studied: **TryHackMe SOC Level 1, Cisco Ethical Hacking, CCNA 1–3, Google Cloud Security**  
 - 🛠️ Experience with **SIEMs, IDS/IPS, Packet Analysis, Cloud IAM, Digital Forensics**  
-- 🧪 *Active learner* with a **300 + day streak** on TryHackMe 🚀  
-
+- 🧪 *Active learner* with a **300 + day streak** on TryHackMe 🚀  -->
 ---
 
 ## 🧪 TryHackMe Stats (Live)
