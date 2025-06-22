@@ -5,13 +5,12 @@
 
 ---
 
-## 🧪 TryHackMe Stats (Live)
+## 🧪 TryHackMe Stats
 <p align="center">
-  <img src="https://tryhackme.com/badge/3281564" alt="TryHackMe Badge" width="400"/>
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3281564" style='border:none;'></iframe>
 </p>
 <p align="center">
-  <strong>Streak:</strong> 337 days · <strong>Rooms:</strong> 72 · <strong>Rank:</strong> 0x9 · <strong>Points:</strong> 57,499
-</p>
+
 
 ---
 
