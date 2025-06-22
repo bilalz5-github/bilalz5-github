@@ -62,19 +62,6 @@
 - 🏆 CCNA 1, 2, 3  
 - 📚 CompTIA Security+ (*ongoing*)  
 
----
-
-## 📊 GitHub Analytics (Dynamic)
-
-<p align="
-## 🎯 Featured Projects
-| Category | Project | Stack |
-| :--- | :--- | :--- |
-| **SIEM & Logging** | [SIEM with Sysmon + ELK](https://github.com/bilalz5-github/SIEM-Setup-Sysmon-ELK) | Winlogbeat, ELK, Sysmon |
-| **Exploitation** | [Erlang SSH RCE CVE-2025-32433](https://github.com/bilalz5-github/Erlang-OTP-SSH-CVE-2025-32433) | Python, SSH |
-| **Networking** | [Network Segmentation Lab](https://github.com/bilalz5-github/Network-Security-Exploration) | Cisco PT |
-| **Tools** | [Reverse Shell Client](https://github.com/bilalz5-github/Reverse-Shell-Client) | Python |
-| **Learning** | [30 Python Challenges](https://github.com/bilalz5-github/30-Python-Challenges) | Python |
 
 ---
 
