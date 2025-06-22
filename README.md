@@ -64,15 +64,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" title="ELK Stack" height="40"/>
   
   <img src="https://img.shields.io/badge/Wazuh-blue?logo=wazuh&logoColor=white" title="Wazuh" height="40"/>
-  <img src="https://img.shields.io/badge/Wazuh-blue?logo=wazuh&logoColor=white" title="Wazuh" height="40"/>
-<img src="https://img.shields.io/badge/Suricata-orange?logo=suricata&logoColor=white" title="Suricata" height="40"/>
-<img src="https://img.shields.io/badge/Zeek-black?logo=zeek&logoColor=white" title="Zeek" height="40"/>
-<img src="https://img.shields.io/badge/Redline-red?logo=redhat&logoColor=white" title="Redline" height="40"/>
-<img src="https://img.shields.io/badge/Sysmon-gray?logo=microsoft&logoColor=white" title="Sysmon" height="40"/>
-<img src="https://img.shields.io/badge/Nmap-blue?logo=nmap&logoColor=white" title="Nmap" height="40"/>
+  <img src="https://img.shields.io/badge/Suricata-orange?logo=suricata&logoColor=white" title="Suricata" height="40"/>
+  <img src="https://img.shields.io/badge/Zeek-black?logo=zeek&logoColor=white" title="Zeek" height="40"/>
+  <img src="https://img.shields.io/badge/Redline-red?logo=redhat&logoColor=white" title="Redline" height="40"/>
+  <img src="https://img.shields.io/badge/Sysmon-gray?logo=microsoft&logoColor=white" title="Sysmon" height="40"/>
+  <img src="https://img.shields.io/badge/Nmap-blue?logo=nmap&logoColor=white" title="Nmap" height="40"/>
 
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/splunk.svg" title="Splunk" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Microsoft_Sysmon_Logo.svg/1200px-Microsoft_Sysmon_Logo.svg.png" title="Sysmon" height="40"/>
+  <img src="https://images.app.goo.gl/n2yZ3dHpvTAFGzWY9" title="Sysmon" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/zeek.svg" title="Zeek" height="40"/>
 
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/nmap.svg" title="Nmap" height="40"/>
