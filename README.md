@@ -63,6 +63,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="Android" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" title="ELK Stack" height="40"/>
   <img src="https://wroberts.me/wp-content/uploads/2022/11/wazuh-666x628.webp" title="Wazuh" height="40"/>
+https://img.shields.io/badge/Wazuh-blue?logo=wazuh&logoColor=white
 
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/wazuh.svg" title="Wazuh" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/splunk.svg" title="Splunk" height="40"/>
