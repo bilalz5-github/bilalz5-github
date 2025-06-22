@@ -65,7 +65,6 @@
   
   <img src="https://img.shields.io/badge/Wazuh-blue?logo=wazuh&logoColor=white" title="Wazuh" height="40"/>
 
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/wazuh.svg" title="Wazuh" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/splunk.svg" title="Splunk" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Microsoft_Sysmon_Logo.svg/1200px-Microsoft_Sysmon_Logo.svg.png" title="Sysmon" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/zeek.svg" title="Zeek" height="40"/>
