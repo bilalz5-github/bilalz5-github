@@ -65,11 +65,3 @@
 
 ---
 
-## 📜 Certifications
-- 🏆 Google Cloud Cybersecurity Certificate  
-- 🏆 Cisco Ethical Hacker  
-- 🏆 Cisco CyberOps Associate  
-- 🏆 CCNA 1, 2, 3  
-- 📚 CompTIA Security+ (*ongoing*)  
-
----
