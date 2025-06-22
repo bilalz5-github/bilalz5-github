@@ -25,33 +25,6 @@
 
 ---
 
-<!-- ====== DYNAMIC BANNER ====== -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%2C+I%E2%80%99m+Bilal+Azam;IT+Graduate+%40+VAMK;Security+Operations+%7C+Network+Security+%7C+Cloud+Security;Focused+on+real-world+threats.+Skilled+in+turning+logs+into+decisions.&center=true&width=800&height=60&duration=3000&pause=1000" alt="Typing SVG">
-</p>
-
----
-
-## 🧪 TryHackMe Stats (Live)
-<p align="center">
-  <img src="https://tryhackme.com/badge/3281564" alt="TryHackMe Badge" width="400"/>
-</p>
-<p align="center">
-  <strong>Streak:</strong> 337 days · <strong>Rooms:</strong> 72 · <strong>Rank:</strong> 0x9 · <strong>Points:</strong> 57,499
-</p>
-
----
-
-## 🧠 Key SOC Level 1 Skills
-- 🧩 Real-time alert triage and log analysis  
-- 🔍 Packet capture & endpoint triage (Wireshark, Sysmon)  
-- 🧪 IDS/IPS signature creation & tuning (Snort, Suricata)  
-- 📈 Threat hunting with IOCs, YARA, MISP  
-- 🕵️ Evidence gathering & malware analysis  
-- 🧾 Documentation & escalation workflows  
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
