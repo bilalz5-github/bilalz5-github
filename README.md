@@ -86,7 +86,3 @@
 - 📚 CompTIA Security+ (*ongoing*)  
 
 ---
-
-## 📊 GitHub Analytics (Dynamic)
-
-<p align="
