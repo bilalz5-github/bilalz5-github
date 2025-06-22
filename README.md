@@ -72,11 +72,9 @@
 
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/splunk.svg" title="Splunk" height="40"/>
   
-  <img src="https://www.google.com/imgres?q=nmap%20svg&imgurl=https%3A%2F%2Fnmap.org%2Fimages%2Fnmap-logo-256x256.png&imgrefurl=https%3A%2F%2Fnmap.org%2Fimages%2F&docid=PdQBG1GQNUVZGM&tbnid=otAiJ4bo0ZbWiM&vet=12ahUKEwig8bGH14SOAxUVFBAIHQyaIiMQM3oECBoQAA..i&w=256&h=256&hcb=2&ved=2ahUKEwig8bGH14SOAxUVFBAIHQyaIiMQM3oECBoQAA" title="Nmap" height="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/suricata.svg" title="Suricata" height="40"/>
+
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/snort.svg" title="Snort" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/cisco.svg" title="Cisco Packet Tracer" height="40"/> 
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mandiant.svg" title="Redline (Mandiant)" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/metasploit.svg" title="Metasploit" height="40"/>
   <span title="YARA Rules" style="font-size: 2em; vertical-align: middle;">YARA</span>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/fortinet.svg" title="Firewall / Network Security" height="40"/>
