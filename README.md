@@ -7,7 +7,7 @@
 
 ## 🧪 TryHackMe Stats
 <p align="center">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3281564" style='border:none;'></iframe>
+  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3281564" style='border:none;'>
   <img src="https://tryhackme-badges.s3.amazonaws.com/bilalz05.png" alt="Your Image Badge" />
 
 </p>
