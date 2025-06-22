@@ -5,7 +5,7 @@
 
 ---
 
-## 🧪 TryHackMe Stats
+##  TryHackMe Stats
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/bilalz05.png" alt="Your Image Badge" />
 
